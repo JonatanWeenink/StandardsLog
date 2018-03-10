@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Standards Log</string>
+    <string name="title_activity_test">test</string>
+    <!--Titles-->
+    <string name="title.main">Standards Log</string>
+    <string name="title.standard.add">Voeg Standard toe</string>
+    <string name="title.standard.modify">Pas Standard aan</string>
+    <string name="title.standard.details">Standard Manager</string>
+    <!--Messages-->
+    <string name="message.standard_saved">Standard is opgeslagen</string>
+    <string name="message.standard_modified">Standard is aangepast</string>
+    <string name="message.standard_deleted">Standard is verwijderd</string>
+    <!--Erroreres-->
+    <string name="error.standard.add.title_required">Geef een titel op</string>
+    <string name="error.standard.add.artist_required">Geef een artiest op</string>
+    <!--Standard-->
+    <string name="standard.title">Titel</string>
+    <string name="standard.artist">Artiest</string>
+    <string name="standard.notes">Aantekeningen</string>
+    <string name="standard.status">Status</string>
+    <string name="standard.key">Toonsoort</string>
+    <string name="standard.date_added">Laatste keer gespeeld</string>
+    <string-array name="standard_status">
+        <item>Kan ik nog niet</item>
+        <item>Aan het oefenen</item>
+        <item>Kan ik met bladmuziek</item>
+        <item>Kan ik uit mijn hoofd</item>
+    </string-array>
+    <!--Input-->
+    <string name="input.standard.title.hint">Titel</string>
+    <string name="input.standard.notes.hint">Aantekeningen</string>
+    <string name="input.standard.status.hint">Status</string>
+    <string name="input.standard.artist.hint">Artiest</string>
+    <string name="input.standard.key.hint">Toonsoort</string>
+    <!--Dialog-->
+    <string name="dialog.confirm.delete.message">Weet je zeker dat je deze standard wilt verwijderen?</string>
+    <!--Actions-->
+    <string name="action.settings">Instellingen</string>
+    <string name="action.delete">Verwijder</string>
+</resources>
