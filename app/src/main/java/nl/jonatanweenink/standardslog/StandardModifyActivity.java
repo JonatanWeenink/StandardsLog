@@ -118,7 +118,7 @@ public class StandardModifyActivity extends AppCompatActivity {
 
             DataSource dataSource = new DataSource(this);
             dataSource.open();
-            dataSource.update(standard.getId(), updatedStandard); 
+            dataSource.update(standard.getId(), updatedStandard);
 
             Toast.makeText(this, R.string.message_standard_modified, Toast.LENGTH_LONG).show();
 
